@@ -5,7 +5,7 @@ See `src/re-intro`.
 ### References
 
 1. MDN, JavaScript, https://developer.mozilla.org/en-US/docs/Web/JavaScript
-2. ECMAScrip, thttps://en.wikipedia.org/wiki/ECMAScript
+2. ECMAScrip, https://en.wikipedia.org/wiki/ECMAScript
 3. Learn X in Y minutes, where X = JavaScript, https://learnxinyminutes.com/docs/javascript/
 4. Modern JavaScript Cheatsheet, https://github.com/mbeaudru/modern-js-cheatsheet
 5. JS CheatSheet, https://htmlcheatsheet.com/js/
